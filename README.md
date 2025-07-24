@@ -12,5 +12,5 @@ We implemented static set-partitioning on LLC(Last level cache) also dynamic set
 
 ---
 
-**Under Guidance**: Dr. Shirshendu Das, Assistant Professor at IIT Hyderabad, Ex-IIT Ropar.
+**Under Guidance**: Dr. Shirshendu Das, Assistant Professor at IIT Hyderabad, Ex-Assistant Professor at IIT Ropar.
 
